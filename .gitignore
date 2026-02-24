@@ -1,3 +1,6 @@
 .vscode/
+/bin/
 *.exe
 *.out
+.DS_Store
+user_git profile
